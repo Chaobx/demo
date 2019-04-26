@@ -1,0 +1,17 @@
+1. txt 
+2. sql
+3. sh
+4. java
+    -- spring boot 
+    -- mybatis
+    -- jvm
+    -- etc ...
+5. linux 
+    -- shell
+    -- os
+    -- network
+    -- nginx
+    -- tomcat
+    -- redis
+    -- mongo
+    -- etc ...
